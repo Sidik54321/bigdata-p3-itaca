@@ -27,6 +27,7 @@ bigdata-p3-itaca/
 ├── ingesta/
 ├── etl/
 ├── dashboard/
+├── docker-compose.yml
 ├── .gitignore
 └── README.md
 ```
